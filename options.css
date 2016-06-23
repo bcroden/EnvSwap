@@ -1,0 +1,11 @@
+textarea {
+    width: 100%;
+    height: 400px;
+}
+button {
+    float: right;
+}
+#error {
+    color: orangered;
+    display: none;
+}
